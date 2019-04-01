@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {View, StyleSheet, Platform,WebVie} from 'react-native';
+import {View, StyleSheet, Platform,WebView} from 'react-native';
 import renderChart from './renderChart';
 import echarts from './echarts.min';
 import PropTypes from 'prop-types';
